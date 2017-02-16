@@ -1,0 +1,10 @@
+target
+test-output
+bin
+.classpath
+.project
+.settings
+
+/target/
+/bin/
+/.settings/
